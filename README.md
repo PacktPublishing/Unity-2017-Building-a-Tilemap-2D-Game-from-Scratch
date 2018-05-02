@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Unity 2017 – Building a Tilemap 2D Game from Scratch [Video]
 This is the code repository for [Unity 2017 – Building a Tilemap 2D Game from Scratch [Video]](https://www.packtpub.com/game-development/unity-2017-–-building-tilemap-2d-game-scratch-video?utm_source=github&utm_medium=repository&utm_campaign=9781789343755), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
@@ -30,8 +29,3 @@ Unity (any recent version), Tiled Map Editor 1.03, Tiled2Unity.
 * [Mastering Unity 2D Game Development](https://www.packtpub.com/game-development/mastering-unity-2d-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781849697347)
 
 * [2D Game Programming in Unity [Video]](https://www.packtpub.com/game-development/2d-game-programming-unity-video?utm_source=github&utm_medium=repository&utm_campaign=9781787120921)
-
-=======
-# Unity-2017-Building-a-Tilemap-2D-Game-from-Scratch
-Unity 2017: Building a Tilemap 2D Game from Scratch, published by Packt
->>>>>>> 79099bc2e845b065ec0aef4ea86cf4396054a97a
