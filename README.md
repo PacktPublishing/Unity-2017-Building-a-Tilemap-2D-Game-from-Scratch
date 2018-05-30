@@ -6,14 +6,13 @@ This is the code repository for [Unity 2017 – Building a Tilemap 2D Game from 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Create a concentration game framework. 
-<LI>Create a minesweeper game framework. 
-<LI>Write C# code in MonoDevelop that spans from beginner to advanced techniques. 
-<LI>Design games that are playable on mobile devices and on the web. 
-<LI>How to use prefabs to make programming games quick and easy. 
-<LI>Using player preferences to save scores. 
-<LI>Publish games to the web and various mobile devices. 
-<LI>How to code a pause menu. </LI></UL></DIV>
+<LI>Work with Unity 2017's new 2D workflow and create a 2D scene. 
+<LI>Set the scene with different types of background, either static or dynamically, using a tileset 
+<LI>Bring your character to life through simple animations 
+<LI>Understand the core concepts of programming by creating basic code that controls a character and destroys an enemy.
+<LI>Create buttons and game controls by using code snippets for input detection 
+<LI>Develop a platformer game and deploy it.</LI></UL></DIV>
+
 
 ## Instructions and Navigation
 ### Assumed Knowledge
